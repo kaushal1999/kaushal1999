@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a final-year student at IIIT Gwalior. In the past 4 years of being a developer, explored Web, App and Data Structures & Algorithms, contributed to various projects. Interested in all things around the ecosystem of JavaScript, React, Node, Flutter.
+
+Leetcode Profile: https://leetcode.com/kaushalwaghela1999
+
+Linkedin: https://www.linkedin.com/in/kaushal-waghela-8b74b9194
